@@ -41,7 +41,7 @@ Questions? Feedback? Reach me:
 
 Ready to explore further? Dive into our repository and join us on this exciting math adventure!
 
-[Explore Repository](https://github.com/rudraparmar76/JCalc-gui)
+[Explore Repository](https://github.com/rudraparmar76/JCalc.git)
 
 Let's make math fun and easy together! 🤓💯 
 
